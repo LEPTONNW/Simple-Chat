@@ -1,0 +1,29 @@
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.exe.config
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.csprojResolveAssemblyReference.cache
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.Properties.Resources.resources
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.csproj.GenerateResource.Cache
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.exe
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.pdb
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.exe
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.pdb
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.CH_Server.resources
+c:\users\hmc\documents\visual studio 2015\Projects\CH_Server\CH_Server\bin\Debug\System.Net.Http.dll
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.exe.config
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.exe
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\bin\Debug\CH_Server.pdb
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.csprojResolveAssemblyReference.cache
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.CH_Server.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.Properties.Resources.resources
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.csproj.GenerateResource.Cache
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.exe
+C:\Users\kac44\OneDrive\문서\Visual Studio 2017\Projects\CH_Server\CH_Server\obj\Debug\CH_Server.pdb
+C:\Users\kac44\source\repos\CH_Server\CH_Server\bin\Debug\CH_Server.exe.config
+C:\Users\kac44\source\repos\CH_Server\CH_Server\bin\Debug\CH_Server.exe
+C:\Users\kac44\source\repos\CH_Server\CH_Server\bin\Debug\CH_Server.pdb
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.csprojResolveAssemblyReference.cache
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.CH_Server.resources
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.Properties.Resources.resources
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.csproj.GenerateResource.Cache
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.csproj.CoreCompileInputs.cache
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.exe
+C:\Users\kac44\source\repos\CH_Server\CH_Server\obj\Debug\CH_Server.pdb
